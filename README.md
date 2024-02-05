@@ -1,4 +1,5 @@
 - I’m Harrison (coding cowboy).
+- Former Data scientist and psychology/Neuroscience quantitative methodologist at University of Reading [EBRlab](https://github.com/ebrlab)
 
 
 How to reach me: 

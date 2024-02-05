@@ -15,7 +15,7 @@ Casual/Predictive inference, Python, R, Jullia, SQL, Matlab. Questionaire and Su
 
 # Current learning 
 - Cloud computing with AWS and Microsoft Azure
-- HTML/CSS/Javascript for web develpoment
+- HTML/CSS/Javascript for web development
 - C
 - Rust
 

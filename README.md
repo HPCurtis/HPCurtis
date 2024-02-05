@@ -1,5 +1,6 @@
 - I’m Harrison (coding cowboy).
 - Former Data scientist and Psychology/Neuroscience quantitative methodologist at University of Reading [EBRlab](https://github.com/ebrlab)
+  - Working on Bayesian psychometrics/item response theory as well as fMRI and EEG timeseries analysis.  
 
 
 How to reach me: 

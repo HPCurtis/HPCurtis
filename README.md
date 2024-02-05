@@ -5,7 +5,7 @@ When im not coding im working with my hands 🔨 or dancing 🕺🏻
 
 # Skills 
 Casual/Predicitive inference, Python, R, Jullia, SQL, Matlab.
-
+ 
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikitlearn, Statmodels PyMC, Numpyro
 - R: LME4, MGCV, lavaan/blavaan, Tidyverse/Tidymodels

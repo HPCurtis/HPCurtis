@@ -1,5 +1,5 @@
 # Welcome to my github.
-Hello my names Harrison Curtis (coding cowboy). I am a former Data scientist and Psychology/Neuroscience quantitative methodologist at University of Reading [EBRlab](https://github.com/ebrlab). Working primarily on Bayesian psychometrics/item response theory as well as fMRI and EEG timeseries analysis and how these methods coould be implemented in the current domianation of old school methods and recent cutting edge development of Machine learning methods within the field. 
+Hello my names Harrison Curtis (coding cowboy). I am a former Data scientist and Psychology/Neuroscience quantitative methodologist at University of Reading [EBRlab](https://github.com/ebrlab). Working primarily on the Bayesian workflow for  psychometrics/item response theory as well as fMRI and EEG timeseries analysis and how these methods could be implemented in the current anlaytical landscape domianated by "old school" methods and recent heavy focus on cutting edge developments of predictive inference using Machine learning methods. 
 
 When im not coding im working with my hands 🔨 or dancing 🕺🏻
 

@@ -4,7 +4,9 @@ Hello my names Harrison Curtis (coding cowboy). I am a former Data scientist and
 When I am not coding im working with my hands 🔨 or dancing 🕺🏻.
 
 # Skills 
-Casual/Predictive inference, Python, R, Jullia, SQL, Matlab. Questionaire and Survey generation.
+- Python, R, Jullia, SQL, Matlab.
+- Casual/Predictive inference, 
+- Questionaire and Survey generation.
  
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.

@@ -4,9 +4,10 @@ Hello my names Harrison Curtis (coding cowboy). I am a former Data scientist and
 When I am not coding im working with my hands 🔨 or dancing 🕺🏻.
 
 # Skills 
-- Python, R, Jullia, SQL, Matlab.
+- Python, R, Jullia, SQL (Postgres, MuSQL, SQLite3) and Matlab.
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
+- AWS and Microsoft Azure
  
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.
@@ -16,15 +17,13 @@ When I am not coding im working with my hands 🔨 or dancing 🕺🏻.
 - Matlab: psychopy, palamedes toolbox.
 
 # Current learning 
-- Cloud computing with AWS and Microsoft Azure
 - HTML/CSS/Javascript for web development
 - C
 - Rust
 
 How to reach me: 
                 [Linkedin](https://www.linkedin.com/in/harrison-curtis-a2a0b41b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxxoPP6VuSP6Agi6EwTxieQ%3D%3D)
-
-
+                
 <!---
 HPCurtis/HPCurtis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

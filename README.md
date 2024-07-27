@@ -18,7 +18,7 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 
 # Current learning 
 - HTML/CSS/Javascript for web development
-- C
+- C/C++
 - Rust
 
 How to reach me: 

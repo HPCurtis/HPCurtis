@@ -8,6 +8,7 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
 - AWS and Microsoft Azure
+- HTML/CSS/Javascript
  
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.
@@ -17,7 +18,6 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 - Matlab: psychopy, palamedes toolbox.
 
 # Current learning 
-- HTML/CSS/Javascript for web development
 - C/C++
 - Rust
 

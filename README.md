@@ -4,7 +4,7 @@ Hello my names Harrison Curtis (coding cowboy). I am a former Data scientist and
 When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 
 # Skills 
-- Python, R, Jullia, SQL (Postgres, MuSQL, SQLite3) and Matlab.
+- Python, R, Jullia, SQL (Postgres, MySQL, SQLite3) and Matlab.
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
 - AWS and Microsoft Azure

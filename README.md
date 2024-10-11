@@ -30,7 +30,8 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "vscode")
 
 ### Other
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "bash")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "docker")
 
 
 How to reach me: 

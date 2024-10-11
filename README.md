@@ -22,6 +22,9 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="azure" />](? "azure")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 
+### Web
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="javascript" />](? "javascript")
+
 ### IDE 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "vscode")
 # Libraries

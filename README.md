@@ -32,6 +32,9 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 
 ### IDE 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "vscode")
+### Version control
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" />](? "git")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" />](? "github")
 
 ### Other
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "matlab")

@@ -8,7 +8,6 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 # Skills 
 ### Python Ecosystem
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
-[<img src="https://skillicons.dev/icons?i=django&theme=dark&perline=15" alt="Django" />](? "Django")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" />](? "Jupyter Notebook")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="Pandas" />](? "Pandas")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="Numpy" />](? "Numpy")
@@ -17,8 +16,6 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="50" height="50"/>](? "BeautifulSoup")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />](? "Selenium")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>](? "Pytest")
-[<img src="https://docs.python.org/3/_images/turtle-star.png" alt="Turtle" width="50" height="50"/>](? "Turtle")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Feather_on_blue_tile.png" alt="Tkinter" width="50" height="50"/>](? "Tkinter")
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
 - AWS and Microsoft Azure

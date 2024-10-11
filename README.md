@@ -19,7 +19,7 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
 - AWS and Microsoft Azure
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "AWS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="bash" />](? "aws")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
  
 # Libraries

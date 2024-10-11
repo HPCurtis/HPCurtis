@@ -21,7 +21,9 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" />](? "aws")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="azure" />](? "azure")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
- 
+
+### IDE 
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "vscode")
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.
 - R: LME4, MGCV, lavaan/blavaan, Tidyverse/Tidymodels, brms, Rstan, easystats. RINLA.
@@ -29,9 +31,7 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 - SQL: Postgres, MySQL, SQLlite.
 - Matlab: psychopy, palamedes toolbox.
 
-# Current learning 
-- C/C++
-- Rust
+
 
 How to reach me: 
                 [Linkedin](https://www.linkedin.com/in/harrison-curtis-a2a0b41b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxxoPP6VuSP6Agi6EwTxieQ%3D%3D)

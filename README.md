@@ -23,6 +23,8 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 
 ### Web
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=html5" alt="html5" />](? "html5")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" />](? "css")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="javascript" />](? "javascript")
 
 ### IDE 

@@ -20,7 +20,6 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 ### Cloud
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" />](? "aws")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="azure" />](? "azure")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 
 ### Web
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" />](? "html")
@@ -29,13 +28,9 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 
 ### IDE 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "vscode")
-# Libraries
-- Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.
-- R: LME4, MGCV, lavaan/blavaan, Tidyverse/Tidymodels, brms, Rstan, easystats. RINLA.
-- Julia: MixedModels, Turing.
-- SQL: Postgres, MySQL, SQLlite.
-- Matlab: psychopy, palamedes toolbox.
 
+### Other
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 
 
 How to reach me: 

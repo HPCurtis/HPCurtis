@@ -26,7 +26,6 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="azure" />](? "azure")
 
 ### Databases
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="MS SQL Server" />](? "MS SQL Server")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="PostgreSQL" />](? "PostgreSQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" />](? "MySQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite" />](? "SQLite")

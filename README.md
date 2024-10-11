@@ -16,7 +16,7 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 [<img src="https://github.com/VikSil/VikSil/blob/trunk/img/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="50" height="50"/>](? "BeautifulSoup")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />](? "Selenium")
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>](? "Pytest")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=Azure" alt="Azure" />](? "Azure")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=Azure" alt="zzure" />](? "zzure")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" />](? "aws")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
  

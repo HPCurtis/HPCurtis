@@ -19,7 +19,8 @@ When I am not coding I am working with my hands 🔨 or dancing 🕺🏻.
 - Casual/Predictive inference, 
 - Questionaire and Survey generation.
 - AWS and Microsoft Azure
-- HTML/CSS/Javascript
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "AWS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
  
 # Libraries
 - Python: Numpy, Scipy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statmodels PyMC, Numpyro, PyStan.
